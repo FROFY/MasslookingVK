@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Masslooking", "Masslooking\Masslooking.csproj", "{D66BE1D7-A0F3-46CE-B4D2-F47188B45746}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D66BE1D7-A0F3-46CE-B4D2-F47188B45746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D66BE1D7-A0F3-46CE-B4D2-F47188B45746}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D66BE1D7-A0F3-46CE-B4D2-F47188B45746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D66BE1D7-A0F3-46CE-B4D2-F47188B45746}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEB4F3F6-9849-4460-BA9A-C0A52F435320}
+	EndGlobalSection
+EndGlobal
